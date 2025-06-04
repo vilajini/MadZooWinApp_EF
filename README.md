@@ -1,4 +1,4 @@
-# 🐾 MadZooWinApp_EF - Membership Management System
+#  MadZooWinApp_EF - Membership Management System
 
 MadZooWinApp_EF is a Windows Forms application developed in C# with Entity Framework and SQLite. It allows users to register, log in, select a membership plan, and view a personalized dashboard that calculates coaching and match fees.
 
